@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\Dylan\Documents\SNHU\CS-330-T3231 Comp Graphic and Visualization 21EW3\Mod7\Final\Final\Source.cpp(267,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dylan\Documents\SNHU\CS-330-T3231 Comp Graphic and Visualization 21EW3\Mod7\Final\Final\Source.cpp(448,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dylan\Documents\SNHU\CS-330-T3231 Comp Graphic and Visualization 21EW3\Mod7\Final\Final\Source.cpp(449,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dylan\Documents\SNHU\CS-330-T3231 Comp Graphic and Visualization 21EW3\Mod7\Final\Final\Source.cpp(453,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dylan\Documents\SNHU\CS-330-T3231 Comp Graphic and Visualization 21EW3\Mod7\Final\Final\Source.cpp(454,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dylan\Documents\SNHU\CS-330-T3231 Comp Graphic and Visualization 21EW3\Mod7\Final\Final\Source.cpp(456,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dylan\Documents\SNHU\CS-330-T3231 Comp Graphic and Visualization 21EW3\Mod7\Final\Final\Source.cpp(457,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dylan\Documents\SNHU\CS-330-T3231 Comp Graphic and Visualization 21EW3\Mod7\Final\Final\Source.cpp(466,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Final.vcxproj -> C:\Users\Dylan\Documents\SNHU\CS-330-T3231 Comp Graphic and Visualization 21EW3\Mod7\Final\Final\Debug\Final.exe
+  C:\Users\Dylan\Documents\SNHU\CS-330-T3231 Comp Graphic and Visualization 21EW3\OpenGL\GLEW\bin\Release\Win32\glew32.dll
+  1 File(s) copied

@@ -4,7 +4,7 @@ This project was supposed to be contained within a single .zip, but the file siz
 
 The following are the journal questions for the assignment:
 
-1) How do I approach designing software?
+1)How do I approach designing software?
   My personal approach is very heavily stepped in concepts like recursion, sub-classes, looping, and so on.  Anywhere I can write a method, class, header, or object that I can use and recycle is something I seek to maximize, as it tends to make the code more efficient.
   
   a) What new design skills has your work on the project helped you to craft?
